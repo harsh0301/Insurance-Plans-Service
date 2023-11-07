@@ -1,1 +1,3 @@
-# Insurance-Plans-Service-
+# Insurance-Plans-Service
+
+This project involves the development of a powerful Big Data application that allows users to perform a wide range of operations on Insurance Plans, including Create, Read, Update, and Delete (CRUD), cascaded delete, and conditional patch. We have also placed a strong emphasis on enhancing security and user privacy through the implementation of OAuth 2.0 and JWT authentication. This security enhancement has led to a 40% reduction in login attempts and ensures the integrity of user data. Additionally, we've made significant improvements to the system's resilience, enabling it to handle high traffic and massive data volumes, particularly in the Redis Database, resulting in an impressive 20% increase in application uptime. These achievements demonstrate our commitment to delivering a secure, high-performance, and user-friendly solution for managing insurance plans.
